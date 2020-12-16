@@ -15,7 +15,8 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 
-public class Main extends Application {
+public class Main extends Application
+{
 
     public static int WIDTH = 640;
     public static int HEIGHT = 480;
